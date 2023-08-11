@@ -1,1 +1,2 @@
 # Linear-and-non-linear-Mendelian-Randomisation-Analysis
+This is a repository for codes used in MR analyses, including using GSMR (https://yanglab.westlake.edu.cn/software/gsmr/), PolyMR (https://github.com/JonSulc/PolyMR) and SUMnlmr (https://github.com/amymariemason/SUMnlmr). These codes are for paper "Poor sleep and shift work associate with increased blood pressure and inflammation in UK Biobank participants" in Press in Nature Communications.
