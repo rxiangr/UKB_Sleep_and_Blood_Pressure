@@ -1,4 +1,4 @@
-# Code used for data processing, linear regression and Mendelian Randomisation (MR) for analysis of sleep disruptions and blood pressure
+# Code used for data processing, linear regression and Mendelian Randomisation (MR) for analysis of sleep disruptions and blood pressure in the UK Biobank
 
 These codes are for the paper "Poor sleep and shift work associate with increased blood pressure and inflammation in UK Biobank participants" in Press in Nature Communications. These codes are contributed by Drs. Artika Nath and Ruidong Xiang.
 
