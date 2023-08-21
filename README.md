@@ -1,4 +1,4 @@
-# Linear-and-non-linear-Mendelian-Randomisation-Analysis
+# Code used for data processing, linear regression and Mendelian Randomisation for analysis of sleep disruptions and blood pressure
 
 This is a repository for codes used in Mendelian-Randomisation (MR) analyses.
 
